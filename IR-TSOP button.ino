@@ -1,5 +1,4 @@
 #include <IRremote.h>
-#include <LiquidCrystal.h>
 IRsend irsend;
 int recvPin = 10;
 int button = 9;
